@@ -1,4 +1,4 @@
-# FMpeg MediaTool v3.9
+# FMpeg MediaTool v1.0
 *A robust and responsive media tool built with Python and FFmpeg.*
 
 Created by [Rahmony](https://www.linkedin.com/in/rahmony).
