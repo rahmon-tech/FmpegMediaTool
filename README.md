@@ -30,7 +30,7 @@ Created by [Rahmony](https://www.linkedin.com/in/rahmony).
 * **Disk Space**: Enough space for the application folder and your output files.
 
 ### Installation & Usage
-1.  Go to the [**Releases Page**](https://github.com/rahmon-tech/FmpegMediaTool/releases) **<-- (Make sure this link is correct!)**.
+1.  Go to the [**Releases Page**](https://github.com/rahmon-tech/FmpegMediaTool/releases)
 2.  Download the latest `.zip` file (e.g., `FMpeg-MediaTool-v1.0-Windows.zip`).
 3.  **Unzip** the entire folder to a location on your computer (e.g., right-click > "Extract All...").
 4.  Open the extracted folder (it will likely be named `FMpeg Tool`).
@@ -95,4 +95,4 @@ This project uses PyInstaller to create the distributable package.
 * **FFmpeg:** FFmpeg itself is licensed under the LGPL/GPL (depending on the build components). See [https://ffmpeg.org/legal.html](https://ffmpeg.org/legal.html). Bundling the executables in the release build is generally permissible under these licenses for this type of application.
 
 ## Support
-Report issues or suggest features via the [GitHub Issues page](https://github.com/rahmon-tech/FmpegMediaTool/issues) **<-- (Make sure this link is correct!)** or contact Rahmony via LinkedIn. Contributions and feedback are welcome!
+Report issues or suggest features via the [GitHub Issues page](https://github.com/rahmon-tech/FmpegMediaTool/issues)  or contact Rahmony via LinkedIn. Contibutions and feedback are welcome!
