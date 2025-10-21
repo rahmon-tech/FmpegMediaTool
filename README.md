@@ -3,7 +3,10 @@
 
 Created by [Rahmony](https://www.linkedin.com/in/rahmony).
 
-**(Consider adding a screenshot of the GUI here)**
+<img width="544" height="981" alt="Caghpture" src="https://github.com/user-attachments/assets/64e8a4e0-6219-4334-b148-0990c743ecb3" />
+<img width="544" height="981" alt="Capghhture" src="https://github.com/user-attachments/assets/70d389d0-f13f-4d80-9948-5c336ef0cb73" />
+<img width="544" height="981" alt="Capture" src="https://github.com/user-attachments/assets/e27f6c2f-c53d-4256-8dd0-c5e0bdde9f13" />
+
 
 ## Features
 * **Batch Processing:** Select multiple videos at once.
