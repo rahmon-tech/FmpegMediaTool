@@ -1,0 +1,33 @@
+Videos uniqueizer
+
+This script uniqueizes your videos.
+It will be useful if you need to change the videos.
+This script is using ffmpeg to convert your videos.
+
+- Random resolution
+- Random volume
+- Random gamma
+- Random saturation
+- Random brightness
+
+Instruction:
+- Place one or many videos inside "input" folder
+- Run the "convert.bat" script
+- The result will be inside the "output" folder
+
+Download (version 1.0.1):
+https://mega.nz/file/vi5zxRyb#4dgHEfV6wJ6RgLsP9jH-aEI5TM1jdjWWdfnnXlE2n84
+
+Virustotal:
+https://www.virustotal.com/gui/file/ac8d64d2ccbf8636ab15cdd0c8c9ef8a729aa1771887820ee69cd317724b5b80?nocache=1
+
+------------------------------------------------------------------------------------------------------------------
+
+Version 1.0.2
+
+Whats new:
+- Fixed bug. The video might be too bright
+
+Download (version 1.0.2):
+
+Virustotal:

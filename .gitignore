@@ -1,0 +1,19 @@
+# Compiled Executables & Build files
+dist/
+build/
+*.spec
+
+# FFmpeg binaries (Should not be in source repo)
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / OS specific files
+.DS_Store
+.vscode/
+.idea/
