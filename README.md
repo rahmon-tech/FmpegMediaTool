@@ -1,12 +1,11 @@
+
 # Fmpeg MediaTool v1.0
 
 A user-friendly GUI application for batch video processing, powered by FFmpeg. Convert videos to various formats, extract audio, mute videos, or apply random filters to create unique outputs. Perfect for casual users and video enthusiasts!
 
 ## Features
 - **Batch Conversion**: Convert videos to MP4, MKV, MOV, GIF, or AVI.
-- **GIF Customization**: Adjust GIF width (100–1000px) and framerate (5–30 FPS).
-- **Audio Tools**: Extract audio to MP3 or mute videos instantly.
-- **Unique-izer**: Apply random filters (resolution, gamma, saturation, brightness, volume) for unique video outputs.
+- **GIF Customizaaration, brightness, volume) for unique video outputs.
 - **User-Friendly GUI**: Intuitive interface with progress tracking and emoji-based logs (ℹ️ for info, ✅ for success, ❌ for errors).
 - **Output Handling**: Saves files in the same directory as inputs with an `ffmpeg_` prefix.
 
@@ -50,3 +49,4 @@ Fmpeg MediaTool is free for personal use. FFmpeg is distributed under the GPL li
 ## Support
 Report issues or suggest features at [GitHub link] or contact Rahmony at https://www.linkedin.com/in/rahmony. Contributions and feedback are welcome!
 
+=======
