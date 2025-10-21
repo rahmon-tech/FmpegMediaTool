@@ -31,7 +31,7 @@ Created by [Rahmony](https://www.linkedin.com/in/rahmony).
 
 ### Installation & Usage
 1.  Go to the [**Releases Page**](https://github.com/rahmon-tech/FmpegMediaTool/releases) **<-- (Make sure this link is correct!)**.
-2.  Download the latest `.zip` file (e.g., `FMpeg-MediaTool-v3.9-Windows.zip`).
+2.  Download the latest `.zip` file (e.g., `FMpeg-MediaTool-v1.0-Windows.zip`).
 3.  **Unzip** the entire folder to a location on your computer (e.g., right-click > "Extract All...").
 4.  Open the extracted folder (it will likely be named `FMpeg Tool`).
 5.  Run `FMpeg Tool.exe` **from inside this folder**.
